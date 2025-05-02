@@ -35,3 +35,14 @@ This project demonstrates how to use Docker to pull and run AI models locally.
 
 4. Access it on: [http://localhost:8081](http://localhost:8081)
 
+   ### Some ScreenShot From Practical
+Running Model on Localhost
+<img width="1456" alt="Screenshot 2025-04-14 at 11 30 09 PM" src="https://github.com/user-attachments/assets/4359c56c-b125-445e-9a9b-355070b6def8" />
+
+Running model on Local CLI
+
+<img width="1250" alt="Screenshot 2025-04-14 at 11 32 56 PM" src="https://github.com/user-attachments/assets/e61fccae-dd7d-49bf-b880-33513cbb0968" />
+<img width="1456" alt="Screenshot 2025-04-14 at 11 31 52 PM" src="https://github.com/user-attachments/assets/668dac44-38b0-494d-a340-9bf40303954c" />
+
+
+
